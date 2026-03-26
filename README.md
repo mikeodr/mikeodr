@@ -1,6 +1,14 @@
-I am a software developer with 14 years experience working on low level drivers, robotics, networking and cybersecurity. I've shipped millions of phones, hundreds of robots, and secured thousands of customer networks.
+Hey, I'm Mike, software developer at Tailscale and tinkerer at heart. 👋
 
-In my spare time I enjoy tinkering and working on [automating my home](https://github.com/mikeodr/Home-AssistantConfig/)
+I've built things across networking, cybersecurity, and embedded systems.
+Now I spend my days making secure networking accessible, and my evenings
+making my house smarter with Home Assistant.
+
+Things you'll find here:
+- 🔐 Networking & security tooling
+- 🏠 Home automation & Home Assistant configs
+- 🖥️ Homelab experiments & NixOS configs
+- 🔧 Open source stuff I use and contribute to
 
 ## Where to find me 🔗
 
